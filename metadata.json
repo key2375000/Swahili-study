@@ -1,0 +1,7 @@
+{
+  "name": "Swahili study",
+  "description": "Learn conversational Swahili from scratch. An intuitive app for absolute beginners using pattern-based learning without complex grammar rules.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
